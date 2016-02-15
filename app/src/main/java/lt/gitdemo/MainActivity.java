@@ -24,4 +24,10 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * 方法1，测试Fun01
+     */
+   public  void Fun01(){
+    
+   }
 }
